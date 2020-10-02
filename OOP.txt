@@ -1,4 +1,4 @@
-Object Oriented Programming
+Object Oriented Programming in Python
 -------------------------------
 OOP is a programming paradigm that uses techniques like
  * Encapsulation
